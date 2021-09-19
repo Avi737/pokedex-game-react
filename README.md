@@ -7,4 +7,4 @@ Pokegame will calculate the total experience for each hand of pokemon. Pokegame 
 
 Images
 
-![](public/images/prokedex.JPG)
+![](/public/images/pokedex.JPG)
